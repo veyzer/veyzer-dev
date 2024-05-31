@@ -11,21 +11,21 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Cyber Defense to protect your organization
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
-    image: /images/hero/hero-image-2.png
-    image_alt: Reports dashboard
+     Veyzer will help you to protect your organization from internal
+      and external cyber threats.
+    <!-- image: /images/hero/hero-image-2.png -->
+    <!-- image_alt: Reports dashboard -->
     button:
       text: Try This Free
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Migrate & Secure your
+    title_suffix: Cloud
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      We have an extensive expertise with cloud migration & protection.
+      
     alternate_style: false
     numbers:
       - prefix: $
@@ -49,7 +49,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: "Veyzer  "
     title_suffix: Features
     remove_top_padding: true
     description: >-
@@ -58,7 +58,7 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Email Campaign in one minute
+    title: Detection Engineering
     description: >-
       Send an email campaign with one click, in just minutes. Automate your
       emails and content, while keeping the human touch.
@@ -69,7 +69,7 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
-    title: See every Lead in one Place
+    title: Vulnerability Management
     description: >-
       Sales analytics and automation made simple: see every sales lead in one
       place, regardless of where it came from.

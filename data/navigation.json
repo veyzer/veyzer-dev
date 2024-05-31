@@ -1,5 +1,5 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/src/assets/images/veyzer_avatar3.png",
   "items": [
     {
       "text": "Home",
@@ -8,25 +8,45 @@
       "dropdown": []
     },
     {
-      "text": "Features",
-      "link": "/features/",
-      "enable_dropdown": false,
-      "dropdown": []
+      "text": "Services",
+      "link": "/services/",
+      "enable_dropdown": true,
+      "dropdown": [
+        {
+          "dropdown_text": "Security Automation and Response",
+          "dropdown_link": "/blog"
+        },
+        {
+          "dropdown_text": "Cloud Security",
+          "dropdown_link": "/tags/marketing/"
+        },
+        {
+          "dropdown_text": "Technology",
+          "dropdown_link": "/tags/technology/"
+        }
+      ]
     },
     {
-      "text": "Pricing",
-      "link": "/pricing/",
-      "enable_dropdown": false,
-      "dropdown": []
+      "text": "Use Cases",
+      "link": "/usecase/",
+      "enable_dropdown": true,
+      "dropdown": [
+        {
+          "dropdown_text": "SIEM Implementation",
+          "dropdown_link": "/blog"
+        },
+        {
+          "dropdown_text": "Detection Engineering",
+          "dropdown_link": "/tags/marketing/"
+        },
+        {
+          "dropdown_text": "Security Operations Automation",
+          "dropdown_link": "/tags/technology/"
+        }
+      ]
     },
     {
-      "text": "About",
-      "link": "/about/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
-      "text": "Blog",
+      "text": "Resources",
       "link": "/blog/",
       "enable_dropdown": true,
       "dropdown": [
@@ -45,10 +65,27 @@
       ]
     },
     {
-      "text": "Contact",
+      "text": "About Us",
       "link": "/contact/",
-      "enable_dropdown": false,
-      "dropdown": []
+      "enable_dropdown": true,
+      "dropdown": [
+        {
+          "dropdown_text": "About Us",
+          "dropdown_link": "/about"
+        },
+        {
+          "dropdown_text": "Contact",
+          "dropdown_link": "/contact"
+        },
+        {
+          "dropdown_text": "Terms",
+          "dropdown_link": "/tags/marketing/"
+        },
+        {
+          "dropdown_text": "Privacy Policy",
+          "dropdown_link": "/tags/technology/"
+        }
+      ]
     }
   ],
   "enable_nav_btn": true,

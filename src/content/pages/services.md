@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services
 seo:
   page_description:
   canonical_url:

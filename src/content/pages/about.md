@@ -13,7 +13,7 @@ content_blocks:
     title: On a mission to change email marketing
     description: We're here to breathe new air into email marketing and help grow your business.
     hero_images:
-      - image: /images/about/aboutfeature-two.jpg
+      - image: /src/assets/images/veyzer_avatar3.png
         image_alt: People working on laptops
         placement: "front_bottom"
       - image: /images/about/aboutfeature-three.jpg
