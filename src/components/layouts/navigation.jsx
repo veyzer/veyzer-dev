@@ -48,9 +48,9 @@ export default function Navigation({ pageUrl }) {
           className={`navbar navbar-expand-lg position-fixed w-100 zindex-dropdown${isSticky ? " sticky-nav" : ""}`}
           id="mainnavigationBar"
         >
-          <div className="container-fluid">
+          <div className="container-fluid" >
             <a className="navbar-brand" href="/">
-              <img src={navigation.logo} alt="Nav-Logo" />
+              <img src={navigation.logo} alt="Nav-Logo" style={{ borderRadius: '15px' }}/>
             </a>
             <button
               className="navbar-toggler"

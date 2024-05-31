@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Use cases
 seo:
   page_description:
   canonical_url:

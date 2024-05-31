@@ -1,7 +1,7 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/src/assets/images/veyzer_avatar3.png",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Veyzer. All rights reserved.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -33,12 +33,12 @@
           "text": "Home"
         },
         {
-          "link": "/features/",
-          "text": "Features"
+          "link": "/services/",
+          "text": "Services"
         },
         {
-          "link": "/pricing/",
-          "text": "Price"
+          "link": "/usecase/",
+          "text": "Use Cases"
         },
         {
           "link": "/about/",
